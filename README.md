@@ -1,3 +1,5 @@
+![color](https://user-images.githubusercontent.com/98724087/153706150-9c999df8-f0d0-463f-81dc-490a28ac40df.png)<br><br>
+
 ## 💬 概要
 ### 自然界のカラーコードを調べるアプリ<br><br>
  
