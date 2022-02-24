@@ -11,7 +11,7 @@
 ## 📃 使い方
 ### 1. 写真を撮影する<br>
 ### 2. 色相 / 彩度 / 明度を整える<br><br>
-![color](https://user-images.githubusercontent.com/98724087/151982552-52eb3ded-7c8c-4c2e-8d93-f42053fa4019.gif)
+![color](https://user-images.githubusercontent.com/98724087/155544077-b6d65337-5dc4-4541-a1cd-c4c88a888f28.gif)
 
 <br>
 
